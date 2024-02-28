@@ -39,6 +39,12 @@ I'm a software developer with experience in various technologies. Here's my tech
 ![Zoom](https://img.shields.io/badge/Zoom-blue?style=for-the-badge&logo=zoom)
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 
+### 🧠 Data Analysis and AI Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
 ### 👩‍💻 Current Job
 
 - Front-end Developer at [Nohbeck](https://www.instagram.com/nohbek_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
