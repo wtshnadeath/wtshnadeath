@@ -38,6 +38,10 @@ I'm a software developer with experience in various technologies. Here's my tech
 - Data analysis with Python
 - Machine learning
 
+### 👩‍💻 Current Job
+
+- Front-end Developer at [Nohbeck]
+
 ### 💻 Projects
 
 Here are some of my latest projects:
