@@ -8,17 +8,17 @@ I'm a software developer with experience in various technologies. Here's my tech
 
 ### 💻 Languages and Frameworks
 
-- JavaScript
-- Python
-- Java
-- C++
-- C
-- HTML
-- CSS
-- Bootstrap
-- Node.js
-- React
-- DJango
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-orange)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C++-blue)](https://www.cplusplus.com/)
+[![C](https://img.shields.io/badge/C-green)](https://www.cprogramming.com/)
+[![HTML](https://img.shields.io/badge/HTML-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)](https://getbootstrap.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-green)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-blue)](https://reactjs.org/)
+[![Django](https://img.shields.io/badge/Django-green)](https://www.djangoproject.com/)
 
 ### 📚 Databases
 
@@ -26,8 +26,8 @@ I'm a software developer with experience in various technologies. Here's my tech
 
 ### ⚙ Tools and Platforms
 
-- Git
-- Visual Studio Code
+[![Git](https://img.shields.io/badge/Git-black)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
 
 ### 🌱 Currently Learning
 
@@ -43,6 +43,6 @@ Here are some of my latest projects:
 
 Feel free to reach out to me on any of the following platforms:
 
-- LinkedIn: https://www.linkedin.com/in/nadia-d%C3%ADaz/
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/nadia-d%C3%ADaz/)
 - Email: nadiadiaz846@gmail.com
 
