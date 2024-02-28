@@ -28,16 +28,20 @@ I'm a software developer with experience in various technologies. Here's my tech
 
 ### ⚙ Tools and Platforms
 
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-- ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-- ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-- ![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
-- ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?style=for-the-badge&logo=sublime-text)
-- ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
-- ![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack)
-- ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-gray?style=for-the-badge&logo=microsoft-teams)
-- ![Zoom](https://img.shields.io/badge/Zoom-blue?style=for-the-badge&logo=zoom)
-- ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?style=for-the-badge&logo=sublime-text)
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
+![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-gray?style=for-the-badge&logo=microsoft-teams)
+![Zoom](https://img.shields.io/badge/Zoom-blue?style=for-the-badge&logo=zoom)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+
+### 👩‍💻 Current Job
+
+- Front-end Developer at [Nohbeck](https://www.instagram.com/nohbek_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### 🌱 Currently Learning
 
@@ -46,9 +50,6 @@ I'm a software developer with experience in various technologies. Here's my tech
 - Data analysis with Python
 - Machine learning
 
-### 👩‍💻 Current Job
-
-- Front-end Developer at [Nohbeck](https://www.instagram.com/nohbek_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### 💻 Projects
 
