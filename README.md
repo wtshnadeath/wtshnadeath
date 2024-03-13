@@ -4,6 +4,9 @@
 
 ## Thanks for visiting my GitHub!
 
+🌐 [Mi portafolio](https://nadiadiazportafolio.netlify.app/#proyectos) - Echa un vistazo a mis proyectos.
+
+
 I'm a software developer with experience in various technologies. Here's my technology stack:
 
 ### 💻 Languages and Frameworks
