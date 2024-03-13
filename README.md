@@ -4,7 +4,10 @@
 
 ## Thanks for visiting my GitHub!
 
-🌐 [Mi portafolio](https://nadiadiazportafolio.netlify.app/#proyectos) - Echa un vistazo a mis proyectos.
+### 🌐 My Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=link)](https://nadiadiazportafolio.netlify.app/#proyectos)
+
 
 
 I'm a software developer with experience in various technologies. Here's my technology stack:
