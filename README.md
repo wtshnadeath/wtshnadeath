@@ -53,7 +53,7 @@ I'm a software developer with experience in various technologies. Here's my tech
 
 ### 👩‍💻 Current Job
 
-- Front-end Developer at [Nohbeck](https://www.instagram.com/nohbek_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- Front-end Developer at [Nohbek](https://www.instagram.com/nohbek_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ### 🌱 Currently Learning
 
